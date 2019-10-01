@@ -39,21 +39,31 @@ This section contains detailed information on how to perform each step in order 
 
 ### Forking
 
-Starting from this page, click the "Fork" button around the top right hand corner.
+1. Starting from this page, click the "Fork" button around the top right hand corner.
 
-* ![](images/fork_1.png)
-* ![](images/fork_2.png)
-* ![](images/fork_3.png)
+   ![](images/fork_1.png)
 
-Done! Now you have your own fork (copy) of our `OpenSUTD/DDDDDDDDDD` repository!
+2. GitHub will now fork (clone) this repository to your own GitHub profile.
+   
+   ![](images/fork_2.png)
+
+3. Done! Now you have your own fork (copy) of our `OpenSUTD/DDDDDDDDDD` repository!
+   
+   ![](images/fork_3.png)
 
 ### Editing
 
-Now that you have your own fork, you can start to make changes. You can create and edit files right from within the browser.
-
-* ![](images/edit_1.png)
-* ![](images/edit_2.png)
-* ![](images/edit_3.png)
+1. Now that you have your own fork, you can start to make changes. You can create and edit files right from within the browser.
+   
+   ![](images/edit_1.png)
+   
+2. While editing the file, try to make it dank in some way!
+   
+   ![](images/edit_2.png)
+   
+3. After you're done, **commit** the file with a descriptive message.
+   
+   ![](images/edit_3.png)
 
 Now you have already made changes to your own repository, and are ready to make a new **pull request**!
 
@@ -61,7 +71,16 @@ Now you have already made changes to your own repository, and are ready to make 
 
 Now here is the process for submitting a new pull request:
 
-* ![](images/submit_1.png)
-* ![](images/submit_2.png)
-* ![](images/submit_3.png)
+1. You should see that your file is inside your fork. Click "New Pull Request".
+   
+   ![](images/submit_1.png)
+   
+2. You will see a summary of your changes. Go ahead and click on the big green button.
+   
+   ![](images/submit_2.png)
 
+3. Leave a dank and descriptive message in the pull request.
+   
+   ![](images/submit_3.png)
+
+When we see new pull requests, we'll merge them in!
