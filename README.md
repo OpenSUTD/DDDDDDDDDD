@@ -1,6 +1,6 @@
 <h1 align="center">DDDDDDDDDD</h1>
 <h3 align="center">OpenSUTD Hacktoberfest 10xD Challenge</h3>
-<p align="center"><b>TLDR</b>: Contribute <code>BIG D</code>, get <code>F R E E</code> <code>S H I R T</code> <code>M A I L E D  T O  Y O U</code>!</p>
+<p align="center"><b>TLDR</b>: Contribute <code>BIG D</code>, get <code>F R E E</code> <code>S H I R T</code> <code>M A I L E D</code> <code>T O</code> <code>Y O U</code>!</p>
 
 Many people are daunted by the idea of making a their first contribution on public repositories. Hence, OpenSUTD has created this repository to encourage members of the SUTD community to learn more about open source and GitHub! This shall be a fun and harmless environment for you to make your first contribution on GitHub via **pull requests**.
 
