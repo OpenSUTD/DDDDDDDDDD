@@ -16,7 +16,9 @@ This month is also [Hacktoberfest](https://hacktoberfest.digitalocean.com/), whi
 3. Make changes using the online editor ([help](#editing))
 4. Submit a pull request! ([help](#submitting))
 
-For more information on how to get started with GitHub, check out the [Hello World Guide](https://guides.github.com/activities/hello-world/).
+**You need to submit at least total of four pull requests (to any repository, not just this one) to qualify for the free Hacktoberfest shirt.**
+
+For more information on how to get started with GitHub, also check out the [Hello World Guide](https://guides.github.com/activities/hello-world/).
 
 ## Cool, so what can I contribute?
 
