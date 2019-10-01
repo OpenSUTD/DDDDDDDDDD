@@ -13,6 +13,8 @@ This month is also [Hacktoberfest](https://hacktoberfest.digitalocean.com/), whi
 3. Make changes using the online editor ([help](#editing))
 4. Submit a pull request! ([help](#submitting))
 
+For more information on how to get started with GitHub, check out the [Hello World Guide](https://guides.github.com/activities/hello-world/).
+
 ## Cool, so what can I contribute?
 
 We encourage you to contribute various types and interpretations of `D`s into this repository! 
