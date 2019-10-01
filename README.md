@@ -39,12 +39,29 @@ This section contains detailed information on how to perform each step in order 
 
 ### Forking
 
-WIP
+Starting from this page, click the "Fork" button around the top right hand corner.
+
+* ![](images/fork_1.png)
+* ![](images/fork_2.png)
+* ![](images/fork_3.png)
+
+Done! Now you have your own fork (copy) of our `OpenSUTD/DDDDDDDDDD` repository!
 
 ### Editing
 
-WIP
+Now that you have your own fork, you can start to make changes. You can create and edit files right from within the browser.
+
+* ![](images/edit_1.png)
+* ![](images/edit_2.png)
+* ![](images/edit_3.png)
+
+Now you have already made changes to your own repository, and are ready to make a new **pull request**!
 
 ### Submitting
 
-WIP
+Now here is the process for submitting a new pull request:
+
+* ![](images/submit_1.png)
+* ![](images/submit_2.png)
+* ![](images/submit_3.png)
+
