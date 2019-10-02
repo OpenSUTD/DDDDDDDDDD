@@ -104,3 +104,38 @@ Now here is the process for submitting a new pull request:
    ![](images/submit_3.png)
 
 When we see new pull requests, we'll merge them in!
+
+### Rebasing
+
+What happens when your current repository is outdated from the original?
+It's time to rebase!
+
+1. You will know that your repository is outdated if it says that it is "n commits behind master". Click on "Compare".
+   
+   ![](images/compare_branch.png)
+   
+2. Change the base repository to your own repository.
+   
+   ![](images/before_swap_red.png)
+
+3. Ohno, the page completely changes. Don't worry, just click on "Compare across forks".
+   
+   ![](images/across_forks_red.png)
+
+4. Whew, we're back to the comparing changes page. Time to change the head repository to the original master, in this case "OpenSUTD/DDDDDDDDDDD". You should be able to see the changes below.
+
+   ![](images/after_swap_red.png)
+   
+5. Go ahead and create a PR from that
+
+   ![](images/create_pr.png)
+   
+6. I think you know what to do from here.
+
+   ![](images/make_pr.png)
+   
+7. Because this is your own repository, you're gonna have to merge it in yourself!
+
+   ![](images/merge_in_red.png)
+
+Aaaaand that's it! You now have a fully updated repository.
