@@ -5,4 +5,4 @@ while(count>0):
   left(90)
   forward(count*2)
   right(25)
-  count=count*0.9
+  count=count*0.99
