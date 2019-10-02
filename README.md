@@ -29,6 +29,7 @@ Examples (just some ideas) of possible contributions:
 * Various `D` files (`d.py`, `d.txt` and so on - demonstrate your knowledge of file formats!)
 * Funny scripts that do things related to `D`
 * Dank stuff, I know we have many meme lords in the crowd
+* For more ideas, check the repo or other [contributions](https://github.com/OpenSUTD/DDDDDDDDDD/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+D)!
 
 **Just keep things harmless and safe for work! No indecent contributions will be tolerated**
 
