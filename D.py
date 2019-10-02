@@ -1,5 +1,11 @@
-def big_D():
-    return "D"
+import lib_d
+
+
+def big_D(verbose=False):
+    d = lib_d.D()
+    if verbose:
+        print("Created D:", d.get_time_created)
+    return d.return_D()
 
 
 def DDDDDDDDDD():
