@@ -1,10 +1,13 @@
 <h1 align="center">DDDDDDDDDD</h1>
 <h3 align="center">OpenSUTD Hacktoberfest 10xD Challenge</h3>
-<p align="center"><b>TLDR</b>: Contribute <code>BIG D</code>, get <code>F R E E</code> <code>S H I R T</code>!</p>
+<p align="center"><img src="https://img.shields.io/github/contributors/OpenSUTD/DDDDDDDDDD"> <img src="https://img.shields.io/github/last-commit/OpenSUTD/DDDDDDDDDD"></p>
+<p align="center"><b>TLDR</b>: Contribute <code>BIG D</code>, get <code>F R E E</code> <code>S H I R T</code> <code>M A I L E D</code> <code>T O</code> <code>Y O U</code>!</p>
 
-We have found that many people are daunted by the idea of making a their first contribution on public repositories. Hence, OpenSUTD has created this repository to encourage members of the SUTD community to learn more about open source and GitHub! This shall be a fun and harmless environment for you to make your first contribution on GitHub via a **pull requests**. 
+Many people are daunted by the idea of making a their first contribution on public repositories. Hence, OpenSUTD has created this repository to encourage members of the SUTD community to learn more about open source and GitHub! This shall be a fun and harmless environment for you to make your first contribution on GitHub via **pull requests**.
 
-This month is also [Hacktoberfest](https://hacktoberfest.digitalocean.com/), which means that you can get a free shirt mailed to you by contributing pull request. Hacktoberfest is an annual, month-long celebration of open source software run by [DigitalOcean](https://www.digitalocean.com/) and other sponsors. During this month (1 Oct to 31 Oct), contribute **at least four pull requests** to **any** GitHub respository and a **free** Hacktoberfest T-shirt will be mailed to you!
+This month is also [Hacktoberfest](https://hacktoberfest.digitalocean.com/), which means that you can get a free shirt mailed to you by contributing pull requests! Hacktoberfest is an annual, month-long celebration of open source software run by [DigitalOcean](https://www.digitalocean.com/) and other sponsors. During this month (1 Oct to 31 Oct), contribute **at least four pull requests** to **any** GitHub respository and a **free** Hacktoberfest T-shirt will be mailed to you!*
+
+> **Note: you have to be fast, there's only 50,000 shirts available globally!**
 
 ### TLDR
 
