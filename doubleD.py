@@ -1,6 +1,8 @@
-def doubleDee():
-    for i in range(2):
-        print('D')
+def doubleDee(number):
+    for i in range(number):
+        print('DD')
 
 
-doubleDee()
+number = int(input("How many double Ds do you want?: "))
+
+doubleDee(number)
